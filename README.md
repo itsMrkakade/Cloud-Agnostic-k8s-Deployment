@@ -1,7 +1,7 @@
 # cloud-agnostic-k8s-deployment
 
 Step 1: *Clone the repository* 
-        &emsp; ``````
+        &emsp; ```https://github.com/itsMrkakade/Cloud-Agnostic-k8s-Deployment.git```
 
 **AWS EKS:**
 
